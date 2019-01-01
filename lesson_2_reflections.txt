@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+It takes a snapshot of the directory status, but it doesn't create the first commitment.
+It creates a hidden file called .git
+
+How is the staging area different from the working directory and the repository? What value you think it offers?
+The difference is that it is an area where the files that are related to the commit are added.
+It can contain less files tat the working repository.
