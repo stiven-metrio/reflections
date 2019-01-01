@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+I was able to determine if the change caused a semantic or sintax error.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+I am able to go back to a stable version quiclky, I can find recent mistakes faster, I can compare different versions
+and make decisons about which one is better.
+
+What do you think are the pros and cos of manually choosing when to create a commit, like you do in Git, vs having
+versions automatically saved, like Google Docs does?
+Pros:
+    1. It is easy to read because it only saves changes that we consider relevant in the project.
+    2. It is easy to read because it shows the changes with color codes
+    3. Changes can be made offline
+    4. It works for any type of file
+Cos:
+    1. If the file is deleted by mistake, a considerable change could be missed because Git doesn't automatically save
+    changes
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?
+Because it is necessary to know the status of the full projec at the moment in which a new version was established.
+
+How can you use the commands git log and git diff to view the history of files?
+With git log it is possible to see al commits in a repository and with log diff it is possible to view the differences 
+between two different versions.
+
+How might using version control make you more confident to make changes that could break something?
+Version control allows me to find out when a bug was introduced and go back to a previous version where the code
+didn't have the bug.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use version control in all projects I develop. Initially, I'm going to complete the courses for Python, C++,
+JS, Android. I'm going to use Git for version-control in them.
