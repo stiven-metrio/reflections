@@ -5,3 +5,6 @@ It creates a hidden file called .git
 How is the staging area different from the working directory and the repository? What value you think it offers?
 The difference is that it is an area where the files that are related to the commit are added.
 It can contain less files tat the working repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I only add the files related to one logical change to this staging area, then create the commit.
