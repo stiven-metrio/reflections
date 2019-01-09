@@ -18,3 +18,7 @@ They allow us to have a better understanding of the flow of the project and its 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is a new commit with the lines that were added in both versions, and without the lines that were removed.
 The diagram is a graphical view of the process that Git follows to merge branches.
+
+What are the pros and cos of Git's automatic merging vs. always doing merges manually?
+Automatic mergin allow us to keep just the changes we are interested in, or provide us info about the changes that were
+made and then we make a decision about what to keep in the latest version.
