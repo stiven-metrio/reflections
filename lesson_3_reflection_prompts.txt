@@ -6,3 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
 remote repository?
 When the collaborators are working on different features don't want to update the remote until the local repository is 
 ready and working.
+
+Describe the differences between forks, clones, branches. When would you use one instead of another?
+Forks are copies on GitHub
+Clones are copies on our local machine
+Branches are versions on GitHub and our local machines
