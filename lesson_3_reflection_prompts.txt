@@ -18,3 +18,8 @@ branches in an eassier way.
 
 How would you collaborate using Git or GitHub? What would be easier, and what would be harder?
 In order to collaborate, it is necessary to use an online platform, so GitHub would be the best option.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefit does each approach have?
+When we are working for the first time in a new feature or change that we are not completely sure.
+The benefit is that we won't broke the main branch if an error occurs.
